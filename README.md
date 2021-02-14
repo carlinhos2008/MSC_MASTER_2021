@@ -7,18 +7,19 @@
 -------
   *  Name: MasterStakeCoin
   *  Ticker: MSC
-  *  MAX_MONEY = 5000000
+  *  MAX_MONEY = 2750000
   *  PRE_MONEY = 500000
-  *  Block time: ~4 Minutes
-  *  TX maturity: 21 blocks
+  *  Block time: ~5 Minutes
+  *  TX maturity: 15 blocks
+  *  Masternode Confirmation: 15 blocks
   *  Algorithm: X11 Pow/MN
   *  Colateral: 2500 Coins
-  *  Block Reward: 30 Coins
-  *  Reward Masternode: 75%
+  *  Block Reward: 15 Coins
+  *  Reward Masternode: 50%
   *  Reward SuperBlock: 1%
-  *  Reward Pow: 25%
-  *  Port: 28998
-  *  rpcPort: 28997
+  *  Reward Pow: 50%
+  *  Port: 29335
+  *  rpcPort: 29336
 -------
 -------
 
