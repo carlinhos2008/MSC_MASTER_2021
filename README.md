@@ -25,9 +25,13 @@
 
 ### COMMUNITY
 
-TELEGRAM
-
 *  https://t.me/grupomscoinbr
+*  https://twitter.com/master_stake
+*  https://bitcointalk.org/index.php?topic=5293208
+*  https://bitcoingarden.org/forum/index.php?topic=96439
+*  https://discord.gg/34cfpAbc6M
+*  https://coinpaprika.com/criptomoeda/msc-miner-stake-coin/
+*  Explorer - https://openchains.info/coin/masterstakecoin/blocks
 
 
 Donations
@@ -35,8 +39,8 @@ Donations
 
  Donations for development are greatly appreciated!
  
-  * DOGE: DSh9Bi7nJi3DR5cD1EsWwKCxLCfvz1TMCZ
-  * BTC:  39vjZuPsCw53YTZLJ1HESsxwqp3AFrRh7N
+  * DOGE: 
+  * BTC:  
   
 ### LICENSE
 -------
