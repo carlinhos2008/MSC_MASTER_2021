@@ -32,7 +32,7 @@
 *  https://discord.gg/34cfpAbc6M
 *  https://coinpaprika.com/criptomoeda/msc-miner-stake-coin/
 *  Explorer - https://openchains.info/coin/masterstakecoin/blocks
-
+*  https://masterstake.online/
 
 Donations
 -------
