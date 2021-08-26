@@ -1,0 +1,22 @@
+[Unit]
+Description=MasterStakeCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=masterstakecoincore
+Group=masterstakecoincore
+
+Type=forking
+PIDFile=/var/lib/masterstakecoind/masterstakecoind.pid
+ExecStart=/usr/bin/masterstakecoind -daemon -pid=/var/lib/masterstakecoind/masterstakecoind.pid \
+-conf=/etc/masterstakecoincore/masterstakecoin.conf -datadir=/var/lib/masterstakecoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
