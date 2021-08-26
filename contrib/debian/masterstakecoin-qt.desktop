@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MasterStakeCoin Core
+Comment=MasterStakeCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem MasterStakeCoin peer-to-peer Netzwerk
+Comment[fr]=MasterStakeCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MasterStakeCoin, eşten eşe kriptografik sanal para birimi
+Exec=masterstakecoin-qt %u
+Terminal=false
+Type=Application
+Icon=masterstakecoin128
+MimeType=x-scheme-handler/masterstakecoin;
+Categories=Office;Finance;

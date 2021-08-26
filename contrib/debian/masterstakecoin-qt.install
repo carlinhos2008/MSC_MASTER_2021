@@ -1,0 +1,6 @@
+usr/local/bin/masterstakecoin-qt usr/bin
+share/pixmaps/masterstakecoin32.xpm usr/share/pixmaps
+share/pixmaps/masterstakecoin16.xpm usr/share/pixmaps
+share/pixmaps/masterstakecoin128.png usr/share/pixmaps
+debian/masterstakecoin-qt.desktop usr/share/applications
+debian/masterstakecoin-qt.protocol usr/share/kde4/services/
